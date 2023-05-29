@@ -1,0 +1,85 @@
+/*pallete*/
+.green {
+    color: #99A98F;
+}
+
+.kaki {
+    color: #C1D0B5;
+}
+
+.sick {
+    color: #D6E8DB;
+}
+
+.yellow {
+    color: #FFF8DE;
+}
+
+
+/*logo*/
+
+.logo-container2 {
+    display: flex;
+    margin-top: 4rem;
+    margin-right: 1rem;
+}
+
+.logo-container2>img {
+    border-radius: 40%;
+
+}
+
+/*h1 h1 flex section*/
+/* .header {
+    display: flex;
+    height: 40vh;
+    background-color: #99A98F;
+    padding-left: 5rem;
+    align-items: center;
+} */
+
+
+
+h1 {
+    font-size: 60px;
+    margin-left: 110px;
+    margin-top: 40px;
+    color: white;
+}
+
+h2 {
+    font-size: 26px;
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-top: 60px;
+    margin-left: 120px;
+}
+
+
+.map-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+iframe {
+    width: 82%;
+    height: 70vh;
+    border: 2px solid #FFF8DE;
+    border-radius: 10px;
+}
+
+.carousel {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+
+}
+
+.carousel-inner {
+    width: 82%;
+
+}
