@@ -83,3 +83,9 @@ iframe {
     width: 82%;
 
 }
+
+@media (max-width: 320px) {
+    h1 {
+        font-size: 18px;
+    }
+}
