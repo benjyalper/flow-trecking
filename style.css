@@ -93,6 +93,12 @@ iframe {
     
     h2 {
         font-size: 16px;
+    }
+    
+    h3 {
+        justify-content: flex-start;
+        margin-left: 30px;
+    }
     
     .nav {
         justify-content: center;
