@@ -84,7 +84,7 @@ iframe {
 
 }
 
-@media (max-width: 330px) {
+@media (max-width: 530px) {
     h1 {
         font-size: 24px;
         margin-left: 0px;
