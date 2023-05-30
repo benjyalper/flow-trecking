@@ -84,12 +84,25 @@ iframe {
 
 }
 
-@media (max-width: 550px) {
+@media (max-width: 330px) {
     h1 {
         font-size: 24px;
+        margin-left: 0px;
+        justify-self: center;
+    }
+    
+    h2 {
+        font-size: 16px;
     }
     
     .nav {
         justify-content: center;
     }
+    
+    iframe {
+    width: 82%;
+    height: 40vh;
+}
+    
+    
 }
