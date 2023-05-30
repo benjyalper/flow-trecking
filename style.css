@@ -95,6 +95,10 @@ iframe {
         font-size: 16px;
     }
     
+    h3 {
+        margin: 0px;
+        justify-self: flex-start;
+    
     .nav {
         justify-content: center;
     }
