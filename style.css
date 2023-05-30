@@ -97,7 +97,7 @@ iframe {
     
     h3 {
         margin: 0px;
-        justify-self: flex-start;
+        justify-content: flex-start;
     
     .nav {
         justify-content: center;
