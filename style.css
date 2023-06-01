@@ -30,6 +30,10 @@
 
 }
 
+.nav {
+    position: static;
+}
+
 /*h1 h1 flex section*/
 /* .header {
     display: flex;
