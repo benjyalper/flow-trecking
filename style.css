@@ -22,7 +22,7 @@
     display: flex;
     margin-top: 4rem;
     margin-right: 1rem;
-    position: fixed;
+
 }
 
 .logo-container2>img {
@@ -30,9 +30,7 @@
 
 }
 
-.nav {
-    position: fixed;
-}
+
 
 /*h1 h1 flex section*/
 /* .header {
