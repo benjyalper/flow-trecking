@@ -22,7 +22,7 @@
     display: flex;
     margin-top: 4rem;
     margin-right: 1rem;
-    display: static;
+    position: fixed;
 }
 
 .logo-container2>img {
