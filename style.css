@@ -22,6 +22,7 @@
     display: flex;
     margin-top: 4rem;
     margin-right: 1rem;
+    display: static;
 }
 
 .logo-container2>img {
