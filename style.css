@@ -22,12 +22,15 @@
     display: flex;
     margin-top: 4rem;
     margin-right: 1rem;
+
 }
 
 .logo-container2>img {
     border-radius: 40%;
 
 }
+
+
 
 /*h1 h1 flex section*/
 /* .header {
